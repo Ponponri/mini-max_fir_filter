@@ -1,5 +1,3 @@
-# ADSP 2023 Spring HW1
-
 ## Mini-Max FIR Filter
 
 - step1: 
@@ -32,7 +30,7 @@
 
 ---
 
-## Run the code
+## Execute
 - Environment: Python 3.8
 - Install packages: 
 ```
